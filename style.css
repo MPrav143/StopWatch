@@ -76,6 +76,9 @@ button:hover{
 
 .lap-title{
     font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .laps{
